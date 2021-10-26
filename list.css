@@ -1,0 +1,40 @@
+ol {
+    /* list-style-type: lower-roman; */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ol li {
+    background-color: cornflowerblue;
+    margin: 5px;
+    padding: 8px;
+}
+
+ul {
+    list-style-type: square;
+    /* list-style-image: url('image/images.jpg'); */
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    width: 50px;
+    height: 50px;
+    background-color: olive;
+    color: palegreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 25px;
+    position: fixed;
+    right: 30px;
+    top: 10px;
+    filter: drop-shadow(6px 6px 5px black);
+}
+
+a:hover {
+    background-color: palevioletred;
+}
