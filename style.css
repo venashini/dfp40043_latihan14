@@ -1,0 +1,17 @@
+body {
+    background-color: lightskyblue;
+    background-image: url('cloud.jpg');
+    width: 1500;
+    background-attachment: fixed;
+}
+
+div {
+    background-color: lightslategray;
+    background-image: url('vena.jpg');
+    width: 1000px;
+    height: 1500px;
+    background-repeat: no-repeat;
+    /* background-position: right top; */
+    background-position-x: 50px;
+    background-position-y: 50px;
+}
