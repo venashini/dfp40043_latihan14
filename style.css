@@ -1,13 +1,13 @@
 body {
     background-color: lightskyblue;
-    background-image: url('cloud.jpg');
+    background-image: url('awan.jpg');
     width: 1500;
     background-attachment: fixed;
 }
 
 div {
     background-color: lightslategray;
-    background-image: url('vena.jpg');
+    background-image: url('images.jpg');
     width: 1000px;
     height: 1500px;
     background-repeat: no-repeat;
